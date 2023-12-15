@@ -1,3 +1,5 @@
+## Code mostly from ChatGPT and HyperNeutrino......need to keep looking back to it to understand it properly
+
 from functools import cache
 # cache = {}
 @cache
